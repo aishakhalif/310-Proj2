@@ -3,7 +3,7 @@
 *
 * ICT310 Assignment 2
 * Aisha Khalif
-* 32381361
+* 
 *
 */
 
